@@ -18,4 +18,4 @@ Seafoam is...
  - *Multi paradigm*
  - *Multi platform*
 
-...so it can help you use better your time with important things! 😉
+...so it can help you use better your time with working on more important things easily without stress! 😉
