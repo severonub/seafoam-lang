@@ -1,3 +1,4 @@
+<hr></hr>
 <h1 align=center>🌊 Seafoam Language</h1>
 <p align=center>🌴 <b>Seafoam</b> is a simple, light, fast and powerful multi-platform language, designed to solve all your problems.</p>
 <hr></hr>
