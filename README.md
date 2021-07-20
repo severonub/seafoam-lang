@@ -1,6 +1,6 @@
 <div align=center>
-⚠ **Alert!** *Seafoam is currently in development.*
-*If you want to contribute, join our discord.*
+⚠ <b>Alert!</b> <i>Seafoam is currently in development.</i><br>
+<i>If you want to contribute, join our discord.</i>
 </div>
 
 <h1 align=center>🌊 Seafoam Language</h1>
