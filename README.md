@@ -1,4 +1,7 @@
-⚠ **Alert!** *Seafoam is currently in development. If you want to contribute, join our discord.*
+<div align=center>
+⚠ **Alert!** *Seafoam is currently in development.*
+*If you want to contribute, join our discord.*
+</div>
 
 <h1 align=center>🌊 Seafoam Language</h1>
 <p align=center>🌴 <b>Seafoam</b> is a simple, light, fast and powerful multi-platform language, designed to solve all your problems.</p>
