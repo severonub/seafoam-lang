@@ -1,5 +1,6 @@
 <div align=center>
-⚠ <b>Alert!</b> <i>Seafoam is currently in development.</i><br>
+⚠ <b>Alert!</b><br>
+<i>Seafoam is currently in development.</i><br>
 <i>If you want to contribute, join our discord.</i>
 </div>
 <br>
